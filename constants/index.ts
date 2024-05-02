@@ -1,21 +1,21 @@
 export const sidebarLinks = [
   {
-    imgURL: "/icons/home.svg",
+    imgURL: "/dompets/home.svg",
     route: "/",
     label: "Home",
   },
   {
-    imgURL: "/icons/dollar-circle.svg",
+    imgURL: "/dompets/kantong-rupiah.svg",
     route: "/my-banks",
     label: "My Banks",
   },
   {
-    imgURL: "/icons/transaction.svg",
+    imgURL: "/dompets/convenience.svg",
     route: "/transaction-history",
     label: "Transaction History",
   },
   {
-    imgURL: "/icons/money-send.svg",
+    imgURL: "/dompets/send-money-rupiah.svg",
     route: "/payment-transfer",
     label: "Transfer Funds",
   },
